@@ -125,3 +125,6 @@ Environment variables
 Notes
 - Delete endpoints are restricted to ADMIN role. By default, newly registered users are USER. For testing ADMIN-only routes, update a user's role to ADMIN in the database.
 
+# Commit on 2024-09-18 at 12:57
+Updated: 2024-09-18
+
